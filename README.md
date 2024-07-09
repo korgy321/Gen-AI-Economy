@@ -2,7 +2,7 @@
 
 ## Predicting Recession using Gen AI
 
-For P, you this project, I will work with my skills in to solve, analyze, and visualize a problem using machine learning models (MLM) with the other technologies I've learned. Prepared a 15-minute data deep dive or infrastructure review that shows machine learning in the context of what I’ve already learned.
+For this project, I will work with my skills in to solve, analyze, and visualize a problem using machine learning models (MLM) with the other technologies I've learned. Prepared a 15-minute data deep dive or infrastructure review that shows machine learning in the context of what I’ve already learned.
 
 ## Background
 
